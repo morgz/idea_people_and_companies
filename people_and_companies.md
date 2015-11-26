@@ -2,6 +2,8 @@
 
 Name | Description
 -----| ----
+[Unmade](#Unmade)|3D-printed knitwear startup
+[Appear Here](#Appear Here)|Air BnB for retail space.
 [Offset](#Offset)|Digital Studio at Moo.com
 [Fraser Doherty](#Fraser Doherty)| Beers, Jams, Coffees. Nice guy, doing lots in the food subscription space.
 [Liam Green](#Liam Green) | Hype clothing founder and designer
@@ -12,6 +14,45 @@ Name | Description
 [Matt Webb](#Matt Webb)|CEO and Co-Founder of Berg. London based Technologist.
 [Jack Shulze](#Jack Shulze)|Co-Founder of Berg. London based Technologist.
 
+<a name="Unmade"></a>
+## Unmade
+
+>Knyttan sits at the intersection of hardware, software and knitwear creating a platform for unique, custom clothing on an industrial scale.
+
+![Unmade image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/10/28/1446035760010/Ben-Alun-Jones--Kirsty-Em-009.jpg?w=620&q=85&auto=format&sharp=10&s=61b45effd7416e0835be78be7de830b3)
+
+
+[Web](https://preview.unmade.com)   
+[Guardian Article](http://www.theguardian.com/fashion/2015/nov/01/cutting-edge-knitting-the-future-of-textiles)
+
+[Back to Top](#top)
+
+<a name="Appear Here"></a>
+## Appear Here
+
+I love this idea. Doesn't everyone dream of owning their own shop? I'd certaintly like to have a crack selling stuff and Appear Here facilitiate the rental of retail space in loads of locations.
+
+>Rent space as easily as booking a hotel room
+We seamlessly connect landlords' vacant spaces to people with great ideas, all online.
+
+>Our vision is to create a global network of spaces so people can make their idea travel. Retail is changing and now more than ever you need to be in the right place, at the right time.
+
+>So discover a space, unlock an idea and make it happen.
+
+Watch the cheesy [Intro Vid](https://www.youtube.com/watch?v=DWc43kQ2ZvQ)
+
+There's also quite a nice story to how it began. It worked for the founder, so he rolled it out into a service
+
+>During the summer of 2012 entrepreneur Ross Bailey decided to launch a brand just in time for the Queens Diamond Jubilee. In less than twelve days, from having the idea, the doors on an empty shop in Marshall Street, London opened. The Rock & Rule brand appeared selling limited edition t-shirts and apparel, inspired by the Queen. After the Jubilee Rock & Rule closed its doors, it had made a healthy profit, Ross put his share into funding Appear Here.
+
+Jamie XX used it to create a shop to promote his new record. (& what a great paint job?)
+
+![jamiexxshop](https://a0.ah-assets.net/uploads/photo/path/17608/5.jpg)
+
+###Links
+[Web](https://www.appearhere.co.uk)   
+
+[Back to Top](#top)
 
 <a name="Offset"></a>
 ## Offset
