@@ -4,14 +4,14 @@ Name | Description
 -----| ----
 [Offset](#Offset)|Digital Studio at Moo.com
 [Fraser Doherty](#Fraser Doherty)| Beers, Jams, Coffees. Nice guy, doing lots in the food subscription space.
-[Vanishing Elephant](#Vanishing Elephant)| Nice Australian clothing label.
 [Liam Green](#Liam Green) | Hype clothing founder and designer
 [East Creative Agency](#East Creative Agency)| Run east London gay club night Sink the Pink amongst other things. Branching into drinks, festivals and clothes.
 [Beeline](#Beeline)|A clever alternative to navigating the city on your bike.
 [Dynamo PR](#Dynamo PR)|Agency behind a bunch of succesful Kickstarter projects. Including [Beeline](#Beeline).
 [Freya Momomoses](#Frayer Momomoses)|She designs some pretty cool fashion stuff. Commisioned by [East Creative Agency](#East Creative Agency) recently.
 [Matt Webb](#Matt Webb)|CEO and Co-Founder of Berg. London based Technologist.
-[Jack Shulze](#Jack Shulze)|CEO and Co-Founder of Berg. London based Technologist.
+[Jack Shulze](#Jack Shulze)|Co-Founder of Berg. London based Technologist.
+
 
 <a name="Offset"></a>
 ## Offset
@@ -43,24 +43,6 @@ Young successful entreuprenuer doing lots in the food subscription market. Scot 
 [https://www.beer52.com](https://www.beer52.com)  
 [Instagram](https://instagram.com/fraserdoherty/)  
 [Sink the Pink Drinks](https://www.duedil.com/company/09553334/sink-the-pink-drinks-ltd)
-
-[Back to Top](#top)
-
-<a name="Vanishing Elephant"></a>
-## Vanishing Elephant
-
-This one is a little indulgent but I love their clothes...
-
->Vanishing Elephant is a Sydney based brand designed by Felix Chan, Huw Bennett and Arran Russell. In 2008 the trio decided to join forces with the singular vision of creating a line committed to producing clothing of real quality, purpose and originality.
-
->Making their mark with a classic aesthetic, each collection heralds a return to gentlemanly style with an undeniable modern twist. Further cementing the labels swift rise to the forefront of Australian menswear, November 2010 saw the label being awarded Designer of the Year at the prestigious GQ Men of the Year Awards in Sydney. Another milestone in the label's progression was in September 2011 with opening of the first VE store in Melbourne's QV Centre.
-
->Visit us on www.vanishingelephant.com or at our VE shop, 14 Albert Coates Lane QV Melbourne.
-
-###Links
-[Twitter](https://twitter.com/VE_SYDNEY)   
-[Web](http://www.vanishingelephant.com)   
-[The Loop article](http://www.theloop.com.au/vanishingelephant/overview)
 
 [Back to Top](#top)
 
@@ -197,3 +179,4 @@ I found the comment from the interviewer particulary revealing when he referred 
 [Twitter](https://twitter.com/schulze)  
 
 [Back to Top](#top)
+
