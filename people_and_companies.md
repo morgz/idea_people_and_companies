@@ -256,7 +256,22 @@ I found the comment from the interviewer particulary revealing when he referred 
 
 [Back to Top](#top)
 
-<a name="James bridle"></a>
+<a name="Dan Williams"></a>
+##Dan Williams
+
+Dan recently setup his own protoyping studio called [Buckley Williams](https://twitter.com/BuckleyWilliams)
+
+>Dan W is a software developer interested in how software shapes our culture. He makes things to playfully explore technology, such as determining the happiness of British Deputy Prime Minister Nick Clegg using emotion recognition algorithms (19% happy) or running treasure hunts across Amazon's network of delivery lockers in London.
+
+>Previously he has collaborated with artists and academics as a creative technologist at Watershed's Pervasive Media Studio, creating projects such as musical instruments powered by solar wind or stories told trough smell.
+
+###Links
+[Web](http://www.iamdanw.com)   
+[Twitter](https://twitter.com/iamdanw/)  
+
+[Back to Top](#top)
+
+<a name="James Bridle"></a>
 ##James Bridle
 
 >I'm a writer, artist, publisher, technologist and a number of other things.
@@ -270,8 +285,8 @@ I found the comment from the interviewer particulary revealing when he referred 
 
 [Back to Top](#top)
 
-<a name="Matt Bidulph"></a>
-##Matt Bidulph
+<a name="Matt Biddulph"></a>
+##Matt Biddulph
 
 >I’m Matt Biddulph (@mattb). I’m based in San Francisco. I’m co-founder of Thington.
 
