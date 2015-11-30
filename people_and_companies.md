@@ -13,6 +13,11 @@ Name | Description
 [Freya Momomoses](#Frayer Momomoses)|She designs some pretty cool fashion stuff. Commisioned by [East Creative Agency](#East Creative Agency) recently.
 [Matt Webb](#Matt Webb)|CEO and Co-Founder of Berg. London based Technologist.
 [Jack Shulze](#Jack Shulze)|Co-Founder of Berg. London based Technologist.
+[James Darling](#James Darling)| Rails dev & Technologist. Ex. Berg, GDS.
+[Tom Taylor](#Tom Taylor)| London based technologist.
+[Dan Williams](#Dan Williams)| London based technologst.
+[James Bridle](#James Bridle)| Literature, Technology, Journalism, Art.
+[Matt Biddulph](#Matt Biddulph)| Travelling technologist living in London. Ex-Nokia, ex-Dopplr, ex-BBC
 
 <a name="Unmade"></a>
 ## Unmade
@@ -218,6 +223,74 @@ I found the comment from the interviewer particulary revealing when he referred 
 [Berg Archived](http://berglondon.com)     
 [Web](https://about.me/schulze)   
 [Twitter](https://twitter.com/schulze)  
+
+[Back to Top](#top)
+
+<a name="James Darling"></a>
+##James Darling
+
+>James Darling is a Creative Technologist at BERG. He works with code, design and process. Previously, James has worked in the music and business continuity industries. In his last job at Unboxed Consulting he made things for Maquet, Channel 5, V inspired, Audi and Britvic. Individually he has worked with The Guardian, Runnymede Trust and Sure Start. In 2009 he co-founded Music Hack Day and Rewired State, a non profit organisation running hack days to promote open data within Government. In 2008 he helped organise probably the biggest subterranean party in London ever. James has spoken in London, Brussels and Manchester on Internet Public Services and at Channel 4 on technology in education.
+
+###Links
+[Web](http://abscond.org)   
+[Twitter](https://www.twitter.com/abscond)  
+
+[Back to Top](#top)
+
+<a name="Tom Taylor"></a>
+##Tom Taylor
+
+>Hello, I’m Tom. I’m a technologist and engineer, with experience inventing, building and launching new things on the internet.   
+
+>Until the end of 2015 I'm Head of Technology at Offset, a product invention studio at MOO. I’m not sure what’s next.   
+
+>I was a co-founder and the CTO of Newspaper Club. We grew it from a silly idea to profitable business with £1m+ turnover, and won a Designs of the Year award (The Guardian) and a BIMA for Technical Achievement along the way. I left in late 2014 when we sold the business. I still retain an interest and sit on the board.
+
+>Before that I was a partner in the Really Interesting Group, and a freelancer, doing prototyping and technology strategy for clients such as Apple, GOV.UK, the BBC, and the National Maritime Museum.
+
+###Links
+[Web](https://tomtaylor.co.uk)   
+[Twitter](https://twitter.com/tomtaylor)  
+[Email](tom@tomtaylor.co.uk)
+[Blog](http://scraplab.net/)
+
+[Back to Top](#top)
+
+<a name="James bridle"></a>
+##James Bridle
+
+>I'm a writer, artist, publisher, technologist and a number of other things.
+
+>I write about culture and technology at booktwo.org and in newspapers and magazines. I also talk a lot and make artworks. You can see lots of my work in my portfolio or find out about exhibitions.
+
+###Links
+[Web](http://shorttermmemoryloss.com)   
+[Twitter](https://twitter.com/jamesbridle)  
+[Portfolio](http://shorttermmemoryloss.com/portfolio/) 
+
+[Back to Top](#top)
+
+<a name="Matt Bidulph"></a>
+##Matt Bidulph
+
+>I’m Matt Biddulph (@mattb). I’m based in San Francisco. I’m co-founder of Thington.
+
+>My interests include:
+
+> - hardware hacking and the Internet Of Things
+- building products from data, particularly the analysis of text and graph-oriented information
+- social networks
+- geographic information systems
+- rapid product prototyping with data
+- I help organise Science Hack Day San Francisco, a 48-hour-all-night event where anyone excited about making weird, silly or serious things with science comes together in the same physical space to see what they can prototype within 24 consecutive hours. 
+- I take quite a lot of pictures and write quite a lot of code. 
+- I speak at conferences.
+
+>I used to work at Nokia, where I was the Head of Data Strategy for Location and Commerce Applications. I was co-founder and CTO of Dopplr, a social network for frequent travellers acquired by Nokia in 2009. From 2001 to 2005 I worked at the BBC in Radio and Music Interactive, where I was leader of the software architecture team, aka Head of Plugging Things Into Other Things. As a freelancer over the years I have worked with the UK Government Digital Service, nature.com, lastminute.com, BERG and Xively.>
+
+###Links
+[About Me](https://about.me/mattbiddulph)   
+[Twitter](http://www.twitter.com/mattb)  
 
 [Back to Top](#top)
 
